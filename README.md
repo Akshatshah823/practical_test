@@ -22,3 +22,12 @@ $ DB_DATABASE=employee_information
 $ DB_USERNAME=root
 $ DB_PASSWORD=
 ```
+Use this to run the project
+```bash
+$ php artisan serve
+```
+Use this to migrate table to the database
+```bash
+
+$ php artisan migrate
+```
